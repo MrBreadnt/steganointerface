@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="steganointerface:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/steganointerface_jar</output-path>
+    <root id="archive" name="steganointerface.jar">
+      <element id="module-output" name="steganointerface" />
+    </root>
+  </artifact>
+</component>
